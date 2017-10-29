@@ -1,0 +1,26 @@
+h1 {
+    font-size: 40px;
+    font-family: Georgia;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 8px;
+    margin-bottom: 4px;
+}
+
+
+h2 {
+    font-size: 32px;
+    color: #4aaaa5;
+}
+
+.panel-title {
+    font-size: 28px;
+    color: #4aaaa5;
+}
+
+#mybio {
+    font-size: 16px;
+    color: purple;
+    font-family: Arial;
+
+}
