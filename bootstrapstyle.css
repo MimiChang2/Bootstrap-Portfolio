@@ -24,3 +24,15 @@ h2 {
     font-family: Arial;
 
 }
+
+.contact {
+    width: 100%;
+}
+
+input {
+    width: 50%;
+}
+
+textarea {
+    width: 50%;
+}
