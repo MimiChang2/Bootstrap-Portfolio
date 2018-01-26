@@ -1,6 +1,6 @@
 h1 {
     font-size: 40px;
-    font-family: Georgia;
+    font-family: Arial;
     background-color: #4aaaa5;
     color: white;
     padding: 8px;
@@ -15,7 +15,8 @@ h2 {
 
 h6 {
     font-size: 28px;
-    color: blue;
+    background-color: #4aaaa5;
+    color: white;
 }
 
 /*img {
