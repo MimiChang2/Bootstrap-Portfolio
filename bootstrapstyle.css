@@ -13,6 +13,20 @@ h2 {
     color: #4aaaa5;
 }
 
+h6 {
+    font-size: 28px;
+    color: blue;
+}
+
+/*img {
+    */
+
+/*    height: 250px;*/
+
+/*    width: 300px;*/
+
+/*}*/
+
 .panel-title {
     font-size: 28px;
     color: #4aaaa5;
